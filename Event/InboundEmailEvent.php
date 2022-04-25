@@ -14,6 +14,8 @@ class InboundEmailEvent extends Event
     protected $html;
     protected $text;
 
+    sdqkdjsqljdl
+
     protected $visibleText;
 
     public function __construct(string $from, string $to, string $subject, ?string $text, ?string $html)
